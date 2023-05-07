@@ -1,0 +1,5 @@
+IDArticulo Ubicación y precio
+controlar stock (consultas lo que está disponible)
+Añadir productos nuevos
+Eliminar productos
+

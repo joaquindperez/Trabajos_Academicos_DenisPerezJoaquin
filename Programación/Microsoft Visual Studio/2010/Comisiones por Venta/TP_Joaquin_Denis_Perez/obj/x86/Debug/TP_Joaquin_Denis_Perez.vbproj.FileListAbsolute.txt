@@ -1,0 +1,51 @@
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Form1.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Resources.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\USUARIO\AppData\Local\Temporary Projects\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Comiciones.resources
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Resources.resources
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.NuevaFactura.resources
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.NuevoVendedor.resources
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.ComisionesVendedoresInicio.resources
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Comiciones.resources
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.ComisionesVendedoresInicio.resources
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Resources.resources
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.NuevaFactura.resources
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.NuevoVendedor.resources
+C:\Users\USUARIO\Desktop\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.vbproj.GenerateResource.Cache
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\bin\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Comiciones.resources
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.ComisionesVendedoresInicio.resources
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.Resources.resources
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.NuevaFactura.resources
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.NuevoVendedor.resources
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\TP_Joaquin_Denis_Perez\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.vbproj.GenerateResource.Cache
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Vendedores por comisiones\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Vendedores por comisiones\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Vendedores por comisiones\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Proyectos\Microsoft Visual Studio\version 2010\Comisiones por Venta\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.exe
+C:\Users\joaqu\OneDrive\Escritorio\Proyectos\Microsoft Visual Studio\version 2010\Comisiones por Venta\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.xml
+C:\Users\joaqu\OneDrive\Escritorio\Proyectos\Microsoft Visual Studio\version 2010\Comisiones por Venta\TP_Joaquin_Denis_Perez\obj\x86\Debug\TP_Joaquin_Denis_Perez.pdb

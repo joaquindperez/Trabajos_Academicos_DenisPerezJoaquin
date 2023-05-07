@@ -1,0 +1,27 @@
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.xml
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.Resources.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.xml
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.Formulario.resources
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.exe
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.xml
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.pdb
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.exe
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.pdb
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.xml
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.Formulario.resources
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.Resources.resources
+C:\Users\USUARIO\Desktop\ICES\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.vbproj.GenerateResource.Cache
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.exe
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.xml
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.pdb
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.exe
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.pdb
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\bin\Debug\EjercicioCocherasUnidad3.xml
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.Formulario.resources
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.Resources.resources
+C:\Users\joaqu\OneDrive\Documentos\ICES\2do Año\PROGRAMACIÓN (2DO AÑO)\Unidad III\Trabajos a entregar\EjercicioCocherasUnidad3\EjercicioCocherasUnidad3\obj\x86\Debug\EjercicioCocherasUnidad3.vbproj.GenerateResource.Cache
